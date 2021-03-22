@@ -37,12 +37,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough
-Winning
 ![](https://i.imgur.com/MMalaXq.gif)
 
-Losing/Restarting
 ![](https://i.imgur.com/HT2FkDN.gif)
-
 
 
 ## Reflection Questions
